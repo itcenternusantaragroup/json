@@ -1,0 +1,82 @@
+{
+  "statusCode": 200,
+  "message": "Success",
+  "totalCount": 11,
+  "data": [
+    {
+      "FD_TRXDATE": "2025-10-30T00:00:00",
+      "fv_stockname": "ALUMINIUM PASTE (GRM)",
+      "QtyRM": 1109760,
+      "ValRM": 38502346.368
+    },
+    {
+      "FD_TRXDATE": "2025-10-30T00:00:00",
+      "fv_stockname": "KAPUR POWDER",
+      "QtyRM": 72321.6,
+      "ValRM": 85104905.65824
+    },
+    {
+      "FD_TRXDATE": "2025-10-30T00:00:00",
+      "fv_stockname": "SLURRY A",
+      "QtyRM": 1029342,
+      "ValRM": 142297885.0272
+    },
+    {
+      "FD_TRXDATE": "2025-10-30T00:00:00",
+      "fv_stockname": "SEMEN",
+      "QtyRM": 199994.4,
+      "ValRM": 150051598.4376
+    },
+    {
+      "FD_TRXDATE": "2025-10-30T00:00:00",
+      "fv_stockname": "TULANGAN PLC 2970",
+      "QtyRM": 486,
+      "ValRM": 46401731.9928
+    },
+    {
+      "FD_TRXDATE": "2025-10-31T00:00:00",
+      "fv_stockname": "ALUMINIUM PASTE (GRM)",
+      "QtyRM": 1105170,
+      "ValRM": 38343099.531
+    },
+    {
+      "FD_TRXDATE": "2025-10-31T00:00:00",
+      "fv_stockname": "KAPUR POWDER",
+      "QtyRM": 71079.6,
+      "ValRM": 83643374.20944
+    },
+    {
+      "FD_TRXDATE": "2025-10-31T00:00:00",
+      "fv_stockname": "SLURRY A",
+      "QtyRM": 1019892,
+      "ValRM": 140991501.9072
+    },
+    {
+      "FD_TRXDATE": "2025-10-31T00:00:00",
+      "fv_stockname": "SEMEN",
+      "QtyRM": 197996.4,
+      "ValRM": 148552540.9956
+    },
+    {
+      "FD_TRXDATE": "2025-10-31T00:00:00",
+      "fv_stockname": "TULANGAN PLC 2470",
+      "QtyRM": 243,
+      "ValRM": 15525836.9919
+    },
+    {
+      "FD_TRXDATE": "2025-10-31T00:00:00",
+      "fv_stockname": "TULANGAN PLC 2720",
+      "QtyRM": 243,
+      "ValRM": 19743587.9919
+    }
+  ],
+  "skip": 0,
+  "take": 1000,
+  "columns": [
+    "FD_TRXDATE",
+    "fv_stockname",
+    "QtyRM",
+    "ValRM"
+  ],
+  "source": "backend"
+}
